@@ -1,0 +1,11 @@
+name: MaskViT
+title: MaskViT
+description: CoRL 2022 submission
+domain: maskvit.github.io
+url: https://maskvit.github.io
+remote_theme: pages-themes/cayman@v0.2.0
+markdown: kramdown
+plugins:
+- jekyll-remote-theme
+
+
