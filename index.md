@@ -257,7 +257,7 @@ Here we present additional qualitative videos of results from MaskViT. Ground tr
 
 ## Real robot experiments 
 
-We demonstrate how the perforamnce improvements afforded by MaskViT allow it to be leveraged for control through visual planning. We show examples of predicted plans and overall trajectories executed on a Sawyer robot by planning using MaskViT as an action-conditioned forward dynamics model.
+We demonstrate how the performance improvements afforded by MaskViT allow it to be leveraged for control through visual planning. We show examples of predicted plans and overall trajectories executed on a Sawyer robot by planning using MaskViT as an action-conditioned forward dynamics model.
 
 <div> 
 <div style="text-align: center">
