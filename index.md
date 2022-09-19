@@ -1,10 +1,16 @@
 ---
 title: "MaskViT: Masked Visual Pre-Training for Video Prediction"
-description: Anonymous CoRL 2022 submission
+description: Anonymous ICLR 2023 submission
 mathjax: true
 ---
 
 ![MaskViT model diagram](resources/model.png)
+<div style="text-align: center">
+	<video class="results_video_64" playsinline autoplay muted loop>
+		  <source src="resources/teaser.mp4" type='video/mp4'>
+		  Your browser does not support the video tag.
+	</video>
+</div>
 
 ## Abstract
 
